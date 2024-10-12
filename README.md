@@ -127,7 +127,7 @@
     <h2>• thank you •</h2>
     <h3></h3>
 </div>
-
+ - [@end-4](https://github.com/end-4) for letting me fork the amazing config.
  - [@clsty](https://github.com/clsty) for making an actually good install script + many other stuff that I neglect
  - [@midn8hustlr](https://github.com/midn8hustlr) for greatly improving the color generation system
  - AGS: [Aylur's config](https://github.com/Aylur/dotfiles), [kotontrion's config](https://github.com/kotontrion/dotfiles)
@@ -140,7 +140,7 @@
     <h3></h3>
 </div>
 
-[![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/end-4/dots-hyprland)
+[![Stargazers over time](https://starchart.cc/abhalala/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/abhalala/dots-hyprland)
 
 <div align="center">
     <h2>• inspirations •</h2>
