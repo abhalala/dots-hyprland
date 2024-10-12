@@ -127,6 +127,7 @@
     <h2>• thank you •</h2>
     <h3></h3>
 </div>
+
  - [@end-4](https://github.com/end-4) for letting me fork the amazing config.
  - [@clsty](https://github.com/clsty) for making an actually good install script + many other stuff that I neglect
  - [@midn8hustlr](https://github.com/midn8hustlr) for greatly improving the color generation system
